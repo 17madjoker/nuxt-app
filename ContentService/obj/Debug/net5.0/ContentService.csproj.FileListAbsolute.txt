@@ -1,0 +1,149 @@
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\appsettings.Development.json
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\appsettings.json
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.exe
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.deps.json
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.json
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.dev.json
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.pdb
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.Views.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\vue-app\Services\ContentService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.csprojAssemblyReference.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfoInputs.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfo.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.csproj.CoreCompileInputs.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.MvcApplicationPartsAssemblyInfo.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.Manifest.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.xml
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\scopedcss\bundle\ContentService.styles.css
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.input.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.output.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.RazorCoreGenerate.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cache
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cs
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.csproj.CopyComplete
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.dll
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.pdb
+D:\vue-app\Services\ContentService\obj\Debug\net5.0\ContentService.genruntimeconfig.cache
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\appsettings.Development.json
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\appsettings.json
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.exe
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.deps.json
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.json
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.dev.json
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.pdb
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.Views.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.csprojAssemblyReference.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfoInputs.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfo.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.csproj.CoreCompileInputs.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.MvcApplicationPartsAssemblyInfo.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.Manifest.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.xml
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\scopedcss\bundle\ContentService.styles.css
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.input.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.output.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.RazorCoreGenerate.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cache
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cs
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.csproj.CopyComplete
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.dll
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.pdb
+D:\vue-app\Services — копия\ContentService\obj\Debug\net5.0\ContentService.genruntimeconfig.cache
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\IdentityModel.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\vue-app\Services — копия\ContentService\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\appsettings.Development.json
+D:\vue-app\ContentService\bin\Debug\net5.0\appsettings.json
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.exe
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.deps.json
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.json
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.runtimeconfig.dev.json
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.pdb
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.Views.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\ContentService\bin\Debug\net5.0\IdentityModel.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\vue-app\ContentService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.csprojAssemblyReference.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfoInputs.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.AssemblyInfo.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.csproj.CoreCompileInputs.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.MvcApplicationPartsAssemblyInfo.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.RazorAssemblyInfo.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.Manifest.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\staticwebassets\ContentService.StaticWebAssets.xml
+D:\vue-app\ContentService\obj\Debug\net5.0\scopedcss\bundle\ContentService.styles.css
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.input.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.TagHelpers.output.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.RazorCoreGenerate.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cache
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.RazorTargetAssemblyInfo.cs
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.Views.pdb
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.csproj.CopyComplete
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.dll
+D:\vue-app\ContentService\obj\Debug\net5.0\ref\ContentService.dll
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.pdb
+D:\vue-app\ContentService\obj\Debug\net5.0\ContentService.genruntimeconfig.cache
